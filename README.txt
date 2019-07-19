@@ -1,4 +1,9 @@
-README
+This project serves as a demonstration of bayesian logistic regression using JAGS on the UCI Heart Disease dataset.
+
+The heirarchical model used for MCMC in this was adapted from 'Doing Bayesian Data Analysis' by Kruschke, J. K.
+
+
+
 
 The code can be run in the following order:
 
